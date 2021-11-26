@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DroidDesserts</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a FroYo.</string>
+    <string name="choose_a_delivery_method">Choose a delivery Method</string>
+    <string name="chosen">Chosen: </string>
+    <string name="nothing_clicked">onRadioButton: Nothing clicked</string>
+    <string name="same_day_messenger_service">Same day messenger service</string>
+    <string name="next_day_ground_delivery">Next day ground delivery</string>
+    <string name="pick_up">Pick up</string>
+</resources>
